@@ -2,7 +2,7 @@
 Estrutura da utilização do plugin datalabels chartjs
 
 
-
+```
 options: {
           plugins: {
           datalabels: {
@@ -43,3 +43,4 @@ options: {
           responsive: true,
           maintainAspectRatio: false
         }
+	```
